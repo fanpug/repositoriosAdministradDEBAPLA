@@ -1,7 +1,10 @@
 # Calculadora de Newton-Raphson
 Estos repositorios fueron creados para la materia de Desarrollo Basado en Plataformas. Los links de los otros repositorios son:
+
 	* https://gitlab.com/Fanpug/repositoriosadministraddebapla
+
 	* https://github.com/fanpug/repositoriosAdministradDEBAPLA
+
 	* https://bitbucket.org/Fanpug/repositoriosadministraddebapla/src/master/
 
 El proyecto original fue hecho con el proposito de ayudarme en otra materia en asistirme a calcular las raices de ecuaciones utilizando el metodo de Newton-Raphson.
