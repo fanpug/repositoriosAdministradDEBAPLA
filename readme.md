@@ -29,6 +29,7 @@ Y descargar los componentes esenciales para construir el programa con el comando
 ```
 sudo apt-get install build-essential
 ```
+
 ### Instalando
 Una vez cumplidos los prerequisitos simplemente se puede ejecutar el archivo incluido llamado calculadora con el comando
 ```
@@ -44,8 +45,15 @@ y se construira un nuevo archivo ejecutable llamado calculadora y, como se dijo 
 ```
 ./calculadora
 ```
+
+## Construido con
+* CodeBlocks - Editor de texto
+
+## Contribuiciones
+Por favor lea [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para mas detalles de el codigo de conducta estandar y el proceso de enviarnos pull requests.
+
 ## Autor
-* **Humberto Alejandro Navarro Andujo** - *Repositorio* - [https://github.com/fanpug?tab=repositories]
+* **Humberto Alejandro Navarro Andujo** - *Repositorio* - https://github.com/fanpug?tab=repositories
 
 ## Licencia
 El proyecto tiene libre licencia ;)
