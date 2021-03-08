@@ -29,3 +29,15 @@ Si se quieren realizar cambios o adiciones al codigo entonces con un editor de t
 y se construira un nuevo archivo ejecutable llamado calculadora y, como se dijo antes, se puede ejecutar usando el comando
 * ./calculadora
 
+## Autor
+* **Humberto Alejandro Navarro Andujo** - *Repositorio* - [https://github.com/fanpug?tab=repositories]
+
+## Licencia
+El proyecto tiene libre licencia ;)
+
+## Agradecimientos
+El profesor Luis Antonio Ramirez Martinez fue quien me inspiro a realizar estos repositorios, muchas gracias profe.
+
+Un saludo a quien use el programa para que le de ayuda con su tarea.
+
+Y saludos a mi perrita Obi.
