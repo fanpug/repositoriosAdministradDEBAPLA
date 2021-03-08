@@ -61,6 +61,6 @@ El proyecto tiene libre licencia ;)
 ## Agradecimientos
 El profesor Luis Antonio Ramirez Martinez fue quien me inspiro a realizar estos repositorios, muchas gracias profe.
 
-Un saludo a quien use el programa para que le de ayuda con su tarea.
+Gracias a las personas de PurpleBooth por su referencia de como debe ser el [formato de un readme](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 Y saludos a mi perrita Obi.
